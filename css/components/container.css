@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,500,600,700|Crimson+Text:400,700|Prata&display=swap');
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#banner-container {
+  background-color: rgba(247, 244, 244, 0.85);
+  height: 210px;
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+

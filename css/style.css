@@ -1,0 +1,63 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,500,600,700|Crimson+Text:400,700|Frank+Ruhl+Libre|Prata|Quicksand&display=swap');/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url("components/card.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/container.css");
+
+body {
+  margin: 0;
+  font-family: "Quicksand", sans-serif;
+}
+
+h1 {
+  font-family: "Frank Ruhle Libre";
+  font-weight: lighter;
+  line-height: 1;
+  padding-top: 20px;
+}
+
+h2 {
+  font-family: "Quicksand", sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h3, h4 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+}
+
+div {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.footer {
+  background-color: #5c5450;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+#button-mover {
+  text-align: center;
+  margin-top: 40px;
+  }
+
+
+
+
